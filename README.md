@@ -1,2 +1,2 @@
 # Synergistic-Iron-Sulfur-Metabolism-in-Two-Extremophilic-Acidophiles
-GitHub 仓库描述（英文，≤ 350 字符，可直接粘到 Description 栏）  > Model support files for “Synergistic Iron-Sulfur Metabolism in Two Extremophilic Acidophiles Is Supported by Cysteine Cross-feeding”. Contains genome-scale metabolic reconstructions (GEMs), constraint-based simulation scripts, media definitions and raw FBA results for cross-feeding analysis.
+  - Model support files for “Synergistic Iron-Sulfur Metabolism in Two Extremophilic Acidophiles Is Supported by Cysteine Cross-feeding”. Contains genome-scale metabolic reconstructions (GEMs), constraint-based simulation scripts, media definitions and raw FBA results for cross-feeding analysis.
